@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since stumbling upon a Python course on Udemy in late 2021.<br>📚   I’m currently studying in the Master of Computer and Information Technology program at University of Pennsylvania.<br>🎯 Goals:  I’m pursuing a career in the tech industry, specifically the fields of data science and software development.</p>
+<p align="left">✨ Creating bugs since stumbling upon a Python course on Udemy in late 2021.<br>📚   I’m a graduate of the online Master of Computer and Information Technology program at University of Pennsylvania.<br>🎯 Goals:  I’m pursuing a career in the tech industry, specifically the fields of data science and software development.</p>
 
 ###
 
