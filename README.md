@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Zhuo, a former middle and high school science and math teacher from New York City.</p>
+<p align="left">I’m Zhuo, a teacher turned data analyst.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since stumbling upon a Python course on Udemy in late 2021.<br>📚   I’m a graduate of the online Master of Computer and Information Technology program at University of Pennsylvania.<br>🎯 Goals:  I’m pursuing a career in the tech industry, specifically the fields of data science and software development.</p>
+<p align="left">
+  ✨ Creating and squashing bugs since stumbling upon a Python course on Udemy in late 2021.<br>
+  📚 I’m a graduate of the online Master of Computer and Information Technology program at University of Pennsylvania.<br>
+  🎯 I’m currently pursuing a career in data analytics.</p>
 
 ###
 
@@ -25,9 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
