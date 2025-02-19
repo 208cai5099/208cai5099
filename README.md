@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">I’m Zhuo, a teacher turned data analyst.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
