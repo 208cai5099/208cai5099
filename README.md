@@ -9,7 +9,9 @@
 <p align="left">
   ✨ Creating and squashing bugs since stumbling upon a Python course on Udemy in late 2021.<br>
   📚 I’m a graduate of the online Master of Computer and Information Technology program at University of Pennsylvania.<br>
-  🎯 I’m currently pursuing a career in data analytics.</p>
+  🎯 I’m currently expanding my data analytics and web development skills.
+
+</p>
 
 ###
 
