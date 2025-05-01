@@ -1,4 +1,5 @@
-<h1 align="left">Hi, welcome to my GitHub page</h1>
+<h1 align="left">Hi there 👋</h1>
+<h3 align="left">Welcome to my GitHub profile! Here, you can find the latest data and programming projects that I have been working on.</h2>
 
 ###
 
@@ -7,15 +8,14 @@
 ###
 
 <p align="left">
-  ✨ Creating and squashing bugs since stumbling upon a Python course on Udemy in late 2021.<br>
-  📚 I’m a graduate of the online Master of Computer and Information Technology program at University of Pennsylvania.<br>
-  🎯 I’m currently expanding my data analytics and web development skills.
-
+  📚 Master of Computer and Information Technology program (UPenn).<br>
+  ✨ Developed an interest in coding after stumbling upon an online Python course.<br>
+  🎯 Excited about using technology to solve real-world problems, especially those in the public education field.
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Things in my toolbelt:</h2>
 
 ###
 
