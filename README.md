@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">Welcome to my GitHub profile! Here, you can find the latest data and programming projects that I have been working on.</h2>
+<h3 align="left">Welcome to my GitHub profile! Here, you can find the latest projects that I have been working on.</h2>
 
 ###
 
